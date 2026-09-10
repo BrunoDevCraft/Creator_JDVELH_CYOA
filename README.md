@@ -185,8 +185,7 @@ l'éditeur — pas besoin de le régler une seconde fois.
   variables ni statistiques, volontairement, pour rester simple à utiliser
   sans coder. Si un jour tu veux ajouter des variables (objets collectés,
   relations entre personnages, etc.), ce sera une évolution du code de
-  `cyoa_creator.py` et de `lecteur_cyoa.py` — n'hésite pas à demander de
-  l'aide pour ça le moment venu.
+  `cyoa_creator.py` et de `lecteur_cyoa.py`.
 - Le fichier `story.py` généré est du Python normal et lisible : tu peux
   toujours l'ouvrir dans un éditeur de texte et le modifier à la main si
   tu es à l'aise avec ça, puis relancer `lecteur_cyoa.py`.
